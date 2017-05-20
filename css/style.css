@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+	background-color: #55acee;
+	font-family: 'Open Sans', sans-serif;
+}
+
+main {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+
+.box {
+	padding-top: 20px;
+}
+
+.trigger {
+	margin: 20px;
+	color: #fff;
+	padding: 8px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+	border: solid;
+	padding: 5px;
+}
+
+a:hover {
+	color: #000;
+	cursor: pointer;
+	background-color: #fff;
+}
+
+a:hover i {
+	background-color: #fff;
+}
+
+.trigger:hover {
+	background-color: #fff;
+	cursor: pointer;
+	color: #000;
+}
